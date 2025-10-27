@@ -12,7 +12,7 @@ Welcome to my research portfolio — a collection of 'fundamental equity analyse
 ###  Equity Research
 Fundamental analysis and valuation reports.
 - **Jasper_JD Sports_Equity_Research](Jasper_JD Sports_Equity_Research.pdf)**
-- Excel valuation model: [`Modelling for JD.`](Modelling for JD..xlsx)
+- Excel valuation model: [`Modelling for JD.`](Modelling for JD.xlsx)
 
 ###  Macro Strategy
 Macro hedge-style research focusing on FX carry, policy shifts, and interest rate differentials.
