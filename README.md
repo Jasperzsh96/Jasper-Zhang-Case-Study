@@ -9,7 +9,6 @@ Welcome to my research portfolio — a collection of 'fundamental equity analyse
 
 ##  Structure
 
-## Structure
 
 ### Equity Research
 Fundamental analysis and valuation reports focusing on JD Sports.
