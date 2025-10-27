@@ -11,15 +11,15 @@ Welcome to my research portfolio — a collection of 'fundamental equity analyse
 
 ###  Equity Research
 Fundamental analysis and valuation reports.
-- **[JD Sports – Equity Report](1_Equity_Research/JD_Sports_Report.pdf)**
-- Excel valuation model: [`Valuation_Model.xlsx`](1_Equity_Research/Valuation_Model.xlsx)
+- **Jasper_JD Sports_Equity_Research](Jasper_JD Sports_Equity_Research.pdf)**
+- Excel valuation model: [`Modelling for JD.`](Modelling for JD..xlsx)
 
 ###  Macro Strategy
 Macro hedge-style research focusing on FX carry, policy shifts, and interest rate differentials.
-- **[USD/JPY Carry Trade Strategy](2_Macro_Analysis/USDJPY_Carry_Strategy.pdf)**
-- Key Python models:
-  - [`carry_backtest.py`](2_Macro_Analysis/Macro_Model_Code/carry_backtest.py)
-  - [`market_state_engine.ipynb`](2_Macro_Analysis/Macro_Model_Code/market_state_engine.ipynb)
+- **[Jasper Zhang_Carry Trade Analysis](Jasper Zhang_Carry Trade Analysis.pdf)**
+- Python models:
+  - [`strategy.py`](strategy.py)
+
 
 
 ---
