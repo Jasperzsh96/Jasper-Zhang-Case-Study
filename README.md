@@ -12,7 +12,7 @@ Welcome to my research portfolio — a collection of 'fundamental equity analyse
 ## Structure
 
 ### Equity Research
-Fundamental analysis and valuation reports focusing on listed consumer and retail names.
+Fundamental analysis and valuation reports focusing on JD Sports.
 - [Jasper JD Sports — Equity Research](<Jasper_JD Sports_Equity_Research.pdf>)
 - Excel valuation model: [Modelling for JD Sports.xlsx](<Modelling for JD Sports.xlsx>)
 
@@ -20,10 +20,6 @@ Fundamental analysis and valuation reports focusing on listed consumer and retai
 Macro hedge-style research focusing on FX carry, policy shifts, and interest-rate differentials.
 - [Jasper Zhang — Carry Trade Analysis](<Jasper Zhang_Carry Trade Analysis.pdf>)
 - Python model: [strategy.py](./strategy.py)
-
-
-
-
 
 ---
 
