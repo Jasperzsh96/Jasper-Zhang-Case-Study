@@ -24,7 +24,7 @@ Macro hedge-style research focusing on FX carry, policy shifts, and interest rat
 
 ---
 
-## 📬 Contact
+##  Contact
 **Jasper Zhang**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
+📧 [jasperzhang1996@outlook.com](jasperzhang1996@outlook.com)  
 🎓 MSc Economics, Durham University  
